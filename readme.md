@@ -11,16 +11,21 @@ A robust REST API service for tracking and managing subscriptions with automated
 - Arcjet for rate limiting and protection
 - Nodemailer for email notifications
 
-## Perview
-![signup user]("C:/Users/ASUS/OneDrive/Pictures/Screenshot 2025-04-27 135749.jpg")
+## Preview
+![signup user](./utils/perview/Screenshot%202025-04-27%20135749.jpg)
+*User registration interface*
 
-![signin user]("C:/Users/ASUS/OneDrive/Pictures/Screenshot 2025-04-27 135948.jpg")
+![signin user](./utils/perview/Screenshot%202025-04-27%20135948.jpg)
+*User login interface*
 
-![users]("C:/Users/ASUS/OneDrive/Pictures/Screenshot 2025-04-27 140340.jpg")
+![users](./utils/perview/Screenshot%202025-04-27%20140340.jpg)
+*Users list view*
 
-![users by Id]("C:/Users/ASUS/OneDrive/Pictures/Screenshot 2025-04-27 140612.jpg")
+![users by Id](./utils/perview/Screenshot%202025-04-27%20140612.jpg)
+*User detail view*
 
-![subscription-with-auth]("C:/Users/ASUS/OneDrive/Pictures/Screenshot 2025-04-27 135904.jpg")
+![subscription-with-auth](./utils/perview/Screenshot%202025-04-27%20135904.jpg)
+*Subscription management with authentication*
 
 
 ## API Endpoints
